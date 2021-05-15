@@ -152,12 +152,12 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -282,12 +282,12 @@
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
